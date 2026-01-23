@@ -188,7 +188,7 @@ function App() {
                 </div>
 
                 <div className="max-w-7xl mx-auto px-6 pt-24 mt-24 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-8">
-                    <p className="text-[10px] font-black uppercase tracking-[0.4em] text-slate-500">© 2024 MK_INDUSTRIAL_BLOG • 18/30 DISPATCHED</p>
+                    <p className="text-[10px] font-black uppercase tracking-[0.4em] text-slate-500">© 2026 THE_INDUSTRIAL // DISPATCH_OS • 18/30 DISPATCHED</p>
                     <div className="px-6 py-2 bg-white/5 border border-white/10 rounded-full text-[10px] font-black uppercase tracking-[0.2em] text-orange-500">
                         Uptime: 99.999%
                     </div>
